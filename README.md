@@ -5,6 +5,6 @@ This is a clean export of a project examining how Albuquerque Rapid Transit (ART
 ## What's Included
 - `ART_BandA.html` — final published post
 - 'ART_Analysis_Draft1_May_30' - First draft of blog post
-- `figures/` — maps and charts used in the write-up
+- `Figures/` — maps and charts used in the write-up
 - `Jupyter_lab/` — Notebooks used to generate maps and charts
 
